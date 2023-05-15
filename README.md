@@ -4,27 +4,27 @@ This is cricket team player application. I have used a local static data for dis
 
 ## Architecture concepts used here
 
-MVVM Architecture.
-Dependancy Injection.
-SOLID Principles.
+- MVVM Architecture.
+- Dependancy Injection.
+- SOLID Principles.
 
 Requirements
 
-Xcode 14.2 Swift 5.5+
+- Xcode 14.2 Swift 5.5+
 
 ## Dependencies
-none
+- None
 
 ## Supports
 
-iPhone Devices. Portrait Mode.
+- iPhone Devices. Portrait Mode.
 
 ## How to use app
 
-Clone respository.
+- Clone respository.
 
 ## Future Modification
 
-Unit Testing using XCTest.
-UITest cases using XCUITest.
-Snapshot Testing.
+- Unit Testing using XCTest.
+- UITest cases using XCUITest.
+- Snapshot Testing.
